@@ -1,0 +1,26 @@
+when wipe.Click
+do call Canvas1.Clear
+when Canvas1.Dragged
+startX
+starty prevX prevY currentX currentY
+currentY draggedAnySprite
+do call Canvas1.DrawLine
+x1
+get prevX
+y1
+get prevY
+x2
+get currentX
+y2 get currentY
+when blue.Click
+do set Canvas1
+PaintColor to
+when red.Click
+do set Canvas1
+PaintColor to
+when green
+Click
+do set Canvas1
+PaintColorto
+when pink.Click
+do set Canvas1 PaintColor to
