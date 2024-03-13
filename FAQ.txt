@@ -1,0 +1,7 @@
+FAQ
+Q: Are you allowed to redistrubute OpenDoodle When Modified?.
+A: Yes, But it has to have a different name, you have to credit us and you WILL have to licence it with gpl 3.0.
+Q: Do i have to pay for OpenDoodle?
+A: No, if you have paid for the sofware YOU HAVE BEEN SCAMMED.
+Q: How do i build from source?
+A: You currently cannot build from source
